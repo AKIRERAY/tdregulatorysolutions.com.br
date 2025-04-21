@@ -3,3 +3,4 @@
   "Domain": "tdregulatorysolutions.com",
   "Id": "172a7ac0-a9c9-43ba-b2f6-47ef53514e4c"
 }
+adiciona arquivo de verificação da Microsoft
